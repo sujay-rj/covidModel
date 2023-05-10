@@ -1,3 +1,13 @@
+# Environment
+.env
+.cenv
+env/
+cenv/
+ENV/
+env.bak/
+cenv.bak/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
